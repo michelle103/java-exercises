@@ -1,0 +1,5 @@
+Kann man die Datei Application.class von einem Windows-Rechner auf Linux kopieren und dort mit dem Programm java zur Ausführung bringen?
+→ Ja, die Datei ist auch unter Linux lauffähig. Der Java-Compiler erzeugt nämlich Bytecode, welcher nicht an eine bestimmte Maschine gebunden ist.
+
+Welche Software muss auf dem Rechner installiert sein?
+→ Die Java Runtime Environment muss installiert sein. Die darin enthaltene Java Virtual Machine führt den Bytecode aus.

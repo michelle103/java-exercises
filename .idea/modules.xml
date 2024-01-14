@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/java-exercises.iml" filepath="$PROJECT_DIR$/java-exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-ist-auch-eine-sprache/java-ist-auch-eine-sprache.iml" filepath="$PROJECT_DIR$/java-ist-auch-eine-sprache/java-ist-auch-eine-sprache.iml" />
     </modules>
   </component>
 </project>
